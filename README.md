@@ -1,4 +1,5 @@
-# Practice-Projects-
-This is a compilation of projects, of which I found interesting in some regard. 
+# Practice-Project-
+Silverman Score, used to assist a Respiratory Therapist in assessing a neonate 
+and initiating appropriate respiratory support.
 
 
